@@ -9,11 +9,11 @@ search for books, and more. File handling has been extensively used in this proj
 
 # FEATURES:
   1. Book Info
-    - Add Book
-    - Search Book
-    - Edit Book
-    - Delete Book
-    - View Book list
+    ..- Add Book
+    ..- Search Book
+    ..- Edit Book
+    ..- Delete Book
+    ..- View Book list
   2. user Info
     - Add User
     - Search user
