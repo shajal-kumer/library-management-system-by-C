@@ -8,24 +8,24 @@ Here, you can perform functions such as add books, return books, issue books, de
 search for books, and more. File handling has been extensively used in this project for almost all functions. 
 
 # FEATURES:
-  1. Book Info
-    ..* Add Book
-    ..* Search Book
-    ..* Edit Book
-    ..* Delete Book
-    ..* View Book list
-  2. user Info
-    ..* Add User
-    ..* Search user
-    ..* Edit User
-    ..* Delete User
-    ..* View user
+  * Book Info
+   - Add Book
+   - Search Book
+   - Edit Book
+   - Delete Book
+   - View Book list
+  * user Info
+    - Add User
+    - Search user
+    - Edit User
+    - Delete User
+    - View user
  
  # TOOLS:
    - Structured Programming Language ( C )
    - Code::Blocks IDE
    
-#REFERENCE:
+# REFERENCE:
   - Google
   - YouTube
   - Stack Overflow
